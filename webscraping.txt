@@ -1,0 +1,2 @@
+print(r.status_code) = to check website status
+print(r.text) = to get html scripts
